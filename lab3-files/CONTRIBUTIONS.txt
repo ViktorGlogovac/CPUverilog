@@ -1,0 +1,19 @@
+﻿Pengyu Ji 95667390
+Viktor Glogovac 31235849
+
+
+
+
+Workday 1: Sat. 10.22
+We met up on campus to review the lab instructions, discuss the design specifications, create the bubble diagram,  and write the test bench.
+At night, we joined a zoom call to write rtl code.
+
+
+Workday 2: Sat. 10.23
+At 9:30am we joined a zoom call together where we continued our work on the rtl code. We referenced the train example from class and multiple other examples from class and old midterms. We also attended the zoom office hours together. 
+
+
+When one of us was writing the code, the other commented on the code and helped debug. The work was split evenly as we worked together remotely and inperson.
+
+
+Pengyu submitted the lab file.

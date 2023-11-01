@@ -1,0 +1,19 @@
+﻿Contributions:
+
+
+Pengyu Ji 95667390
+Viktor Glogovac 31235849
+
+
+Workday 1: Sat 30, 2022
+We met up on campus to review the lab instructions, discuss the design specifications. We found a 2 hour youtube video which walked us through the general functions in ARM which we went through in class and the flipped lectures. This helped us a lot and we were able to get started on the lab pretty quickly. We split the workload evenly since we live shared the code and worked inperson together at the same time. By the end of the day we debugged the code in https://cpulator.01xz.net/?sys=arm-de1soc, and it worked so we loaded it on the DE1-SOC board but we realized the output wasn’t what we expected. 
+
+
+Workday 2: Sun. 10.23
+Pengyu resolved the problem Sunday morning with a single line of code added, which he found on piazza. We meet up online to discuss, demo the solution and write up the contributions. 
+
+
+When one of us was writing the code, the other commented on the code and helped debug. The work was split evenly as we worked together remotely and inperson.
+
+
+Pengyu submitted the lab file.

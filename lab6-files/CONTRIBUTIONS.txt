@@ -1,0 +1,19 @@
+﻿Contributions:
+
+
+Pengyu Ji 95667390
+Viktor Glogovac 31235849
+
+
+Workday 1: Sat 19, 2022
+On Saturday we met up on campus and started the lab 6. We began working on the updated datapath along with it’s testbench. We quickly encountered some issues so we decided to proceed thorough the next portion of the lab, the instruction decoder. At the end of the day we were able to complete the datapath changes without a testbench written, instruction decoder with it’s testbench, and the controller fsm. 
+
+
+Workday 2: Sun 20, 2022
+On Sunday we met up on campus again to complete the lab. We noticed that our controller fsm was incorrect and began making changes to our code. After we were able to complete the testbench for it too. In the end we were able to complete the full lab with some minor missing pieces. 
+
+
+Pengyu submitted the lab.
+
+
+We worked on the lab simultaneously together, so the work was divided evenly.

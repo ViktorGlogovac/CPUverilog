@@ -1,0 +1,27 @@
+﻿Contributions:
+
+
+Pengyu Ji 95667390
+Viktor Glogovac 31235849
+
+
+Workday 1: Wed 9, 2022
+We met up on campus to review the lab instructions, discuss the design specifications. We began working on the regfile testbench, but quickly ran into issues understanding the instructions. After a long day of work we were able to complete the ALU and shifter designs along with their testbenches. We decided to individually carefully read over the regfile testbench instructions and meet up online the next day to finish it. 
+
+
+Workday 2: Thu 10, 2022
+We met up virtually and discussed our approaches to the regfile testbench. After discussing it with eachother we concluded to a method and began coding. We also found some minor issues with our ALU and shifter testbench so we fixed those as well. 
+
+
+Workday 3: Fri 11, 2022
+We decided to meet up early in the morning to finish up the lab. After watching a few quick videos explaining on how to combine multiple modules together we felt confident in making the design. This did not take us too long and we were able to check our work using the rtl schematic designed on quartus. Later we began making the testbench, this took us a bit longer since we weren’t sure which tests to make, but once we decided on the tests and calculated each of their outputs we were confident in finishing the testbench.
+
+
+Workday 4: Sat 12, 2022
+We decided to meet online to check over our work and hand in the lab. We joined an office hours meeting via zoom to confirm our work and clear up and concerns we has. 
+
+
+Pengyu submitted the lab file.
+
+
+Overall the work was evenly divided amongst us.
